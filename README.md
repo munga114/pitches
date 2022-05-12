@@ -12,7 +12,7 @@ Pitch-perfect is web application that can be used to quick one-minute pitches in
 ## Setup/Installation Requirements
 1.Open your terminal, navigate to installation folder.
 
-2.Ensure you have installed python 3.6
+2.Ensure you have installed python 3.8
 
 3.Git clone the project to your preferred folder.
 
