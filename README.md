@@ -3,6 +3,8 @@
 
 ## Description
 Pitch-perfect is web application that can be used to quick one-minute pitches in a variety of categories.
+
+
 ## Features
 * Users can sign up and create an account
 * Users can create a pitch
