@@ -1,5 +1,5 @@
 # Pitches
-## Built By [Mike Collins](https://github.com/mykeck)
+## Built By [Mungai Mbugua]
 
 ## Description
 Pitch-perfect is web application that can be used to quick one-minute pitches in a variety of categories.
