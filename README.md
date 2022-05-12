@@ -20,7 +20,7 @@ Pitch-perfect is web application that can be used to quick one-minute pitches in
 
 
 ## Technologies Used
-* Python3.6
+* Python3.8
 * Bootstrap
 * Flask framework
 
