@@ -27,4 +27,4 @@ Pitch-perfect is web application that can be used to quick one-minute pitches in
 
 This project is under the MIT licence
 
-##### Copyright (c) 2020 Mike Collins.
+##### Copyright (c) 2022 Mungai Mbugua.
